@@ -1,0 +1,60 @@
+body{
+    background-color: #66ffcc;
+}
+h1{
+	text-align: center;
+  color: #ff5c33;
+}
+h2{
+	text-align: center;
+
+}
+p{
+  text-align: center;
+}
+
+#top_el td{
+	height: 75px;
+    width: 75px;
+    text-align: center;
+    border: 5px;
+    font-size: 10px;
+   }
+#top_q td{
+	height: 75px;
+    width: 75px;
+    text-align: center;
+    border: 5px;
+    font-size: 10px;
+   }
+#tab1 #col{
+	height: 75px;
+    width: 75px;
+    text-align: center;
+    border: 5px solid black;
+    font-size: 20px;
+   }
+
+#tab2 #col{
+	height: 75px;
+    width: 75px;
+    text-align: center;
+    border: 5px solid black;
+    font-size: 20px;
+   }
+
+
+ #mynetwork {
+      width: 100%;
+      height: 500px;
+      border: 1px solid lightgray;
+      text-align: center;
+      
+  }
+#base{
+	height: 75px;
+    width: 75px;
+    text-align: center;
+    border: 5px;
+    font-size: 10px;
+   }
