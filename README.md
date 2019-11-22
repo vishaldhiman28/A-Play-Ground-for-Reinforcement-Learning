@@ -7,4 +7,4 @@ Steps:
    
      >>python3 reinforcement.py
    It will generate a model_history.json
- 2: Then go to here https://repl.it/@cyberdhiman/Reinfrocement-Learning  and upload that json file and then play.
+ 2: Then go to here https://reinfrocement-learning.cyberdhiman.repl.co/  and upload that json file and then play.
